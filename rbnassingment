@@ -1,0 +1,31 @@
+ASSIGNMENT 1 :
+
+sd;lkjfas;lkdjfkl;adklafjd
+
+[root@ip-
+-31-28-161 ~]# kubectl get nodes
+NAME                                               STATUS   ROLES    AGE     VERSION
+ip-172-31-18-72.ap-southeast-1.compute.internal    Ready    <none>   2d      v1.18.5
+ip-172-31-22-225.ap-southeast-1.compute.internal   Ready    <none>   2d22h   v1.18.5
+ip-172-31-28-161.ap-southeast-1.compute.internal   Ready    master   2d22h   v1.18.5
+[root@ip-172-31-28-161 ~]# clear
+
+
+
+asdjflkasjdlk 
+********
+
+ASSIGNMENT 2
+a;sdjf;alsfjdl
+adsl;kf;asfklasjf
+a;ldjf;lasjdf;l
+
+
+
+[root@ip-172-31-28-161 ~]# kubectl get nodes
+NAME                                               STATUS   ROLES    AGE     VERSION
+ip-172-31-18-72.ap-southeast-1.compute.internal    Ready    <none>   2d      v1.18.5
+ip-172-31-22-225.ap-southeast-1.compute.internal   Ready    <none>   2d22h   v1.18.5
+ip-172-31-28-161.ap-southeast-1.compute.internal   Ready    master   2d22h   v1.18.5
+[root@ip-172-31-28-161 ~]# clear
+
